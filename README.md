@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 ! My name is Mehdy and I'm a Web developer, from Lyon (France)</h2>
+<h2 align="left">Bonjour 👋 ! Je m'appelle Mehdy et je suis développeur web.</h2>
 
 ###
 
