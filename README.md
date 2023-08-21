@@ -1,7 +1,7 @@
 <h2 align="left">Bonjour 👋 ! Je m'appelle Mehdy et je suis développeur web.</h2>
 
 ###
-
+<div align="center"><img src="https://aircodr.com/9d643f53934a11f35e1824df87fdbe33/illustration.gif" width="400"/></div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HpJkR&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=HpJkR&locale=fr&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
