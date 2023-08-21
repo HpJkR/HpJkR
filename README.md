@@ -9,8 +9,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/HpJkR/HpJkR/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -57,6 +55,8 @@
 <img align="left" height="150" src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif"  />
 
 ###
+
+<br clear="both">
 
 <p align="left">Après une expérience de plus de 10 ans dans le commerce, j’ai décidé de me reconvertir dans le développement web. Créatif et ambitieux, j'ai toujours aimé comprendre et résoudre des problèmes techniques. Passionné par les nouvelles technologies, j'aime me tenir informé des évolutions du marché.</p>
 
