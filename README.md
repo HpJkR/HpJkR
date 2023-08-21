@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">Mon portfolio : [https://portfolio-mehdy-hertereau.vercel.app/](https://www.mehdy-hertereau.com/)</p>
+<p align="left">Mon portfolio : www.mehdy-hertereau.com</p>
 
 ###
 
