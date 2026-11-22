@@ -1,69 +1,85 @@
-<h2 align="left">Bonjour 👋 ! Je m'appelle Mehdy et je suis développeur web.</h2>
+<!-- ░░ HEADER ░░ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,50:ff79c6,100:8be9fd&height=200&section=header&text=HpJkR&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Product%20Engineer%20%E2%80%A2%20Paris&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%" />
+</p>
 
-###
-<div align="center"><img src="https://aircodr.com/9d643f53934a11f35e1824df87fdbe33/illustration.gif" width="400"/></div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HpJkR&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=HpJkR&locale=fr&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:m.hertereau@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF79C6&center=true&vCenter=true&width=520&lines=Bonjour+%F0%9F%91%8B+moi+c%27est+HpJkR;Product+Engineer+%E2%80%A2+Paris;React+%E2%80%A2+Node.js+%E2%80%A2+React+Native;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/mehdy-hertereau/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HpJkR&style=for-the-badge&color=8be9fd&label=VISITES" alt="Visites" />
+</p>
 
-<p align="left">Mon portfolio : www.mehdy-hertereau.com</p>
+---
 
-###
+<!-- ░░ ABOUT ░░ -->
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<br clear="both">
+### 🧑‍💻 À propos
 
-<img align="left" height="150" src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif"  />
+```ts
+const hpjkr = {
+  role: "Product Engineer",
+  location: "Paris, France 🇫🇷",
+  stack: {
+    front: ["React", "TypeScript", "Tailwind", "Sass"],
+    back: ["Node.js", "Express", "PHP", "MySQL"],
+    mobile: ["React Native", "Swift"],
+  },
+  design: "Figma",
+  currentlyLearning: "toujours quelque chose 🚀",
+  funFact: "Collectionneur de Pop Harry Potter ⚡",
+};
+```
 
-###
+</td>
+<td width="45%" align="center" valign="middle">
+  <img src="https://aircodr.com/9d643f53934a11f35e1824df87fdbe33/illustration.gif" width="100%" alt="dev illustration" />
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HpJkR/count.svg?"  />
-</div>
+<!-- ░░ STACK ░░ -->
+<h3 align="center">🛠️ Stack & outils</h3>
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,html,css,sass,tailwind&theme=dark" alt="Front & Back" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=php,mysql,swift,wordpress,figma,git,github,vscode,npm&theme=dark" alt="Outils" />
+</p>
+
+<!-- ░░ STATS ░░ -->
+<h3 align="center">📊 Statistiques</h3>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HpJkR&show_icons=true&rank_icon=github&custom_title=Stats%20GitHub&locale=fr&text_bold=false&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&hide_border=true&border_radius=12" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=HpJkR&layout=donut&langs_count=6&locale=fr&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&hide_border=true&border_radius=12" alt="langages" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=HpJkR&locale=fr&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=f8f8f2&currStreakNum=f8f8f2&sideNums=f8f8f2&dates=6272a4&stroke=44475a&hide_border=true&border_radius=12" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HpJkR&bg_color=0d1117&color=f8f8f2&title_color=ff79c6&line=ff79c6&point=bd93f9&area=true&area_color=bd93f9&hide_border=true&radius=12&custom_title=Activit%C3%A9%20GitHub" alt="activity graph" />
+</p>
+
+<!-- ░░ PROJECTS ░░ -->
+<h3 align="center">🚀 Quelques projets</h3>
+
+<p align="center">
+  <a href="https://github.com/HpJkR/Ma-Collection-Pop-Harry-Potter"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=HpJkR&repo=Ma-Collection-Pop-Harry-Potter&description_lines_count=2&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&hide_border=true&border_radius=12" alt="Ma Collection Pop" /></a>
+  <a href="https://github.com/HpJkR/group-manager-dashboard"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=HpJkR&repo=group-manager-dashboard&description_lines_count=2&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&hide_border=true&border_radius=12" alt="Group Manager Dashboard" /></a>
+  <a href="https://github.com/HpJkR/the-good-corner"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=HpJkR&repo=the-good-corner&description_lines_count=2&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&hide_border=true&border_radius=12" alt="The Good Corner" /></a>
+  <a href="https://github.com/HpJkR/Wildmazon"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=HpJkR&repo=Wildmazon&description_lines_count=2&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&hide_border=true&border_radius=12" alt="Wildmazon" /></a>
+</p>
+
+<!-- ░░ FOOTER ░░ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8be9fd,50:ff79c6,100:bd93f9&height=120&section=footer" alt="footer" width="100%" />
+</p>
